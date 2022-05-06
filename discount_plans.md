@@ -1,0 +1,1 @@
+ - Discount plan for loyal user profile and Coffeehut_Wallet payment 
